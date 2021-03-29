@@ -1,0 +1,21 @@
+{
+  "name": "inversify-extension",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "main": "./build/index.js",
+  "types": "./build/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "inversify": "^5.0.5",
+    "reflect-metadata": "^0.1.13"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}

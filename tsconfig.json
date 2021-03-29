@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2019",
+    "lib": [ "es2019" ],
+    "downlevelIteration": true,
+    "module": "commonjs",
+    "noUnusedLocals": true,
+    "strict": true,
+    "declaration": true,
+    "sourceMap": true,
+    "rootDir": "./src",
+    "outDir": "./lib",
+    "experimentalDecorators": true
+  }
+}
